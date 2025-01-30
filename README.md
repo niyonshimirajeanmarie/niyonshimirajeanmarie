@@ -1,7 +1,7 @@
 Hi there 👋 I'm niyonshimira jeanmarie  
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/niyonshimirajeanmarie/niyonshimira/main/giphy.gif" alt="Animated Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/niyonshimirajeanmarie/niyonshimirajeanmarie/main/giphy.gif" alt="Animated Banner" width="100%">
 </div>
 
 I'm a **Full-Stack Developer** studying at **Adventist University of Central Africa (AUCA).** Passionate about coding, problem-solving, and building efficient applications.  
