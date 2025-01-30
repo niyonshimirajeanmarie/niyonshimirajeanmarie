@@ -37,8 +37,8 @@ I'm a **Full-Stack Developer** studying at **Adventist University of Central Afr
 <div align="center">
     <table>
         <tr>
-            <td><a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a></td>
-            <td><a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
+            <td><a href="www.linkedin.com/in/niyonshimira-jean-marie-5a0399313"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a></td>
+            <td><a href="niyonshimirajeanmarie@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
             <td><a href="YOUR_WHATSAPP_URL"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a></td>
         </tr>
         <tr>
