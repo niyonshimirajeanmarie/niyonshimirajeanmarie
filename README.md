@@ -87,7 +87,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🛒 Glen Producer</h3>
+        <h3 align="center">Glen Producer</h3>
         <div align="center">
           <a href="https://github.com/niyonshimirajeanmarie/glen-producer" target="_blank">
             <img src="https://img.shields.io/badge/View_Project-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Glen Producer" />
