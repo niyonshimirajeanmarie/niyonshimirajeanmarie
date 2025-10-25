@@ -138,15 +138,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=niyonshimirajeanmarie&theme=gruvbox&no-frame=true&row=1&column=6)
-
-
-</div>
-
-
 ### 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyonshimirajeanmarie&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
