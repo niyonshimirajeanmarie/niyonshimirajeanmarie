@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 
 
 **Full-Stack Software Developer** | **B.Sc. Computer Science** (In Progress)  
 📍 Kigali, Rwanda 🇷🇼  
