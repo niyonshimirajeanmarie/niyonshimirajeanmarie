@@ -15,6 +15,10 @@
 
 Full-stack developer specializing in modern web applications with expertise in building scalable, user-centric solutions. Passionate about clean code, problem-solving, and continuous learning.
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Full-Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning+New+Technologies" alt="Typing Animation" />
+</div>
+
 ## 🛠️ Technical Stack
 
 **Frontend:** React • TypeScript • JavaScript • Tailwind CSS  
@@ -22,11 +26,7 @@ Full-stack developer specializing in modern web applications with expertise in b
 **Database:** MongoDB • PostgreSQL • MySQL  
 **Tools:** Git • Docker • AWS • Postman • VS Code
 
-## 🚀 Featured Projects
 
-- **[EcoTravels](https://github.com/niyonshimirajeanmarie/ecotravels)** - Eco-friendly travel booking platform with real-time availability | React, Node.js, MongoDB
-- **[Glen Producer](https://github.com/niyonshimirajeanmarie/glen-producer)** - Music producer platform with integrated payment system | React, Express, Stripe
-- **[Agri Oasis Harvest](https://github.com/niyonshimirajeanmarie/agri-oasis-harvest)** - Smart farming management system | Spring Boot, PostgreSQL
 
 ## 📊 GitHub Stats
 
