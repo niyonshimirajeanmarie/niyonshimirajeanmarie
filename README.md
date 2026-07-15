@@ -93,19 +93,12 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niyonshimirajeanmarie&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niyonshimirajeanmarie&theme=tokyonight" alt="Top Languages" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niyonshimirajeanmarie&theme=tokyonight" alt="Most Commit Language" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=niyonshimirajeanmarie&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niyonshimirajeanmarie&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niyonshimirajeanmarie&theme=tokyonight" alt="Productive Time" height="180"/>
-</p>
+
 
 ## 🏆 Achievements
 
